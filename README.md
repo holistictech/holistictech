@@ -1,4 +1,11 @@
 <div>
-<a href="">
-  <img src="./assets/main.png"/></a>
+
+<div>
+  <img src="./assets/holistickids.png"/></a>
+</div>
+
+<div>
+  <img src="./assets/main.png"/>
+</div>
+
 </div>
