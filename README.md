@@ -1,1 +1,1 @@
-![a building](https://github.com/zackkrida/zackkrida/assets/main.jpg)
+![a building](https://github.com/holistictech/holistictech/assets/main.jpg)
