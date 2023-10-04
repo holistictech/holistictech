@@ -1,11 +1,3 @@
 <div>
-
-<div>
-  <img src="./assets/holistickids.png"/></a>
-</div>
-
-<div>
-  <img src="./assets/main.png"/>
-</div>
-
+  <img src="./assets/holistickidswlogo.png"/></a>
 </div>
