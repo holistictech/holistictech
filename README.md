@@ -1,1 +1,7 @@
-![a building](https://github.com/holistictech/holistictech/tree/master/assets/main.png)
+# Hello 👋 from HOLISTIC TECH
+
+
+<div>
+<a href="">
+  <img src="./assets/main.png"/></a>
+</div>
