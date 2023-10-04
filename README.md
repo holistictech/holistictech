@@ -1,1 +1,1 @@
-![a building](https://github.com/holistictech/holistictech/assets/main.png)
+![a building](https://github.com/holistictech/holistictech/tree/master/assets/main.png)
